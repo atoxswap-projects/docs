@@ -22,11 +22,11 @@ The whitepaper does not constitute any investment advice, financial advice, trad
 
 ## Abstract - 1
 
-The ATOX Ecosystem is home to the ATOX Token which is a protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain. It has been built and lives at atoxscan.com and is also attached to Binance Smart Chain(BSC) and Polygon (MATIC) as development continues on atoxscan. Designed with maximum usage facilities for the investors, and can be used as a fuel for innumerable online payment services as shown in our roadmap.
+The ATOX Ecosystem is home to the [ATOX Token](../what-is-atox/atox-token.md) which is a protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain. It has been built and lives at atoxscan.com and is also attached to Binance Smart Chain(BSC) and Polygon (MATIC) while development continues on [atoxscan](../what-atox-has-planned./atoxscan.md). Designed with maximum usage facilities for the community, and can be used as a fuel for innumerable online payment services as shown in our roadmap.
 
-The project has been designed by the ATOX developers to ensure maximum security, and guarantee better rewards by using the ATOX Ecosystem. Everything from Staking, Winning and Building crypto related Dapps on the ATOX Ecosystem while earning ATOX-LP while at ease to trade numerous coins without moving assets from centralised exchanges paying fees left right and centre, using features like my ATOX wallet which is a decentralised wallet meaning you are still in control of your all assets. 100% of the time! Getting deep in with FuelPools for maximum potential earning up to 28% API.
+The project has been designed by the ATOX developers to ensure maximum security, and guarantee a better more stable reward system by using the ATOX, Everything from Staking, Winning and Building crypto related Dapps on the ATOX Ecosystem will be possible, on our mobile app while earning ATOX-LP Tokens from the  [atoxFarm](../what-atox-has-planned./atoxswap/atoxfarm.md) for maximum potential earning up to 28% API. Our user interface will put you to ease to trade numerous coins without moving assets from centralised exchanges, paying fees left right and centre, using features like my ATOX wallet which is a decentralised wallet meaning you are still in control of your all assets. 100% of the time!
 
-Our roadmap, token distribution are clearly defined so investors can have the utmost confidence in the project. The token is here to stay, to help bring the final solution to making the world a better place. See how we aim to achieve this in the Project-Goals.
+Our roadmap, token distribution are clearly defined so investors can have the utmost confidence in the project. The token is here to stay, to help bring the final solution to making the world a better place. See how we aim to achieve this in the [Project Goals](project-goals.md).
 
 We want the ATOX Ecosystem community to attain maximum financial freedom. As a result of this, every ATOX holder is incentivized to spread the use of ATOX as much as possible. As the platform gains more traction and more transactions take place on the network, the token will benefit from an increased exposure, which would ultimately benefit the community in the long run. The ATOX Ecosystem plans to be around for many years to come!
 
@@ -183,10 +183,12 @@ Phase 5 will begin when ATOX is at 5.87 then the ATOX\_Development\_Protocol wil
 * [ ] Continue development on atox world
 * [ ] Launch ATOX ATMs
 * [ ] Launch cross-chain
+* [ ] v2 ATOX Cards interface update
 * [ ] 4th donation to one or more in need organisation
 * [ ] 4th instalment Charity Program
 * [ ] Better Off Program 4th instalment
 * [ ] ATOX Career Program 4th instalment
+* [ ] ATOX Burnt:
 
 ### Phase 6
 
@@ -194,7 +196,16 @@ Phase 5 will begin when ATOX is at 5.87 then the ATOX\_Development\_Protocol wil
 Phase 6 will begin when ATOX is at 8.28 then the ATOX\_Development\_Protocol will issue the 5th instalment of the development fund which is a total of 18,750,000 ATOX after all projects are funded while existing ATOX will be burnt.
 {% endhint %}
 
-*
+* [ ] Launch ATOX ATMs&#x20;
+* [ ] Supply liquidity for ATMs
+* [ ] Update ATOX card interface &#x20;
+* [ ] Continue development on atox world
+* [ ] Start on Oasis Development
+* [ ] 5th donation to one or more in need organisation
+* [ ] 5th instalment Charity Program
+* [ ] Better Off Program 5th instalment
+* [ ] ATOX Career Program 5th instalment
+* [ ] ATOX Burnt:&#x20;
 
 ### Phase 7&#x20;
 
@@ -202,8 +213,13 @@ Phase 6 will begin when ATOX is at 8.28 then the ATOX\_Development\_Protocol wil
 Phase 7 will begin when ATOX is at 11.63 then the ATOX\_Development\_Protocol will issue the 6th instalment of the development fund which is a total of 18,750,000 ATOX after all projects are funded while existing ATOX will be burnt.
 {% endhint %}
 
-*
-*
+* [ ] Continue development on Oasis&#x20;
+* [ ] Start atoxworld plans&#x20;
+* [ ] 6th donation to one or more in need organisation
+* [ ] 6th instalment Charity Program
+* [ ] Better Off Program 6th instalment
+* [ ] ATOX Career Program 6th instalment
+* [ ] ATOX Burnt:&#x20;
 
 ### Phase 8&#x20;
 
@@ -211,10 +227,32 @@ Phase 7 will begin when ATOX is at 11.63 then the ATOX\_Development\_Protocol wi
 Phase 8 will begin when ATOX is at 15.02 then the ATOX\_Development\_Protocol will issue the 7th instalment of the development fund which is a total of 18,750,000 ATOX after all projects are funded while existing ATOX will be burnt.
 {% endhint %}
 
-*
+* [ ] Start development on DAO
+* [ ] Continue plans on atoxworld&#x20;
+* [ ] Continue development on oasis
+* [ ] 7th donation to one or more in need organisation
+* [ ] 7th instalment Charity Program
+* [ ] Better Off Program 7th instalment
+* [ ] ATOX Career Program 7th instalment
+* [ ] ATOX Burnt:&#x20;
 
 ### Phase 9
 
 {% hint style="info" %}
 Phase 9 will begin when ATOX is at 28.74 then the ATOX\_Development\_Protocol will issue the 8th instalment of the development fund which is a total of 18,750,000 ATOX after all projects are funded while existing ATOX will be burnt.
 {% endhint %}
+
+* [ ] &#x20;DAO Launched / ATOX\_Development\_Protocol (Completed)
+* [ ] &#x20;Open atoxworld to public&#x20;
+* [ ] Launch Oasis
+* [ ] 8th donation to one or more in need organisation
+* [ ] 8th instalment Charity Program
+* [ ] Better Off Program 8th instalment
+* [ ] ATOX Career Program 8th instalment
+* [ ] ATOX Burnt:&#x20;
+
+
+
+## Summary
+
+At the end of the development process we have some big things in mind so the ATOX Ecosystems asks can you.&#x20;
