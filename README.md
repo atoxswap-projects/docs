@@ -22,9 +22,9 @@ The whitepaper does not constitute any investment advice, financial advice, trad
 
 ## Abstract - 1
 
-The ATOX Ecosystem is home to the [ATOX Token](atox-ecosystem/what-is-atox/atox-token.md) which is a protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain. It has been built and lives at atoxscan.com and is also attached to Binance Smart Chain(BSC) and Polygon (MATIC) while development continues on [atoxscan](atox-ecosystem/what-is-atox/what-atox-has-planned./atoxscan.md). Designed with maximum usage facilities for the community, and can be used as a fuel for innumerable online payment services as shown in our roadmap.
+The ATOX Ecosystem is home to the [ATOX Token](atox-ecosystem/a-roadmap-for-the-atox-ecosystem/what-is-atox/atox-token.md) which is a protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain. It has been built and lives at atoxscan.com and is also attached to Binance Smart Chain(BSC) and Polygon (MATIC) while development continues on [atoxscan](atox-ecosystem/a-roadmap-for-the-atox-ecosystem/what-is-atox/what-atox-has-planned./atoxscan.md). Designed with maximum usage facilities for the community, and can be used as a fuel for innumerable online payment services as shown in our roadmap.
 
-The project has been designed by the ATOX developers to ensure maximum security, and guarantee a better more stable reward system by using the ATOX, Everything from Staking, Winning and Building crypto related Dapps on the ATOX Ecosystem will be possible, on our mobile app while earning ATOX-LP Tokens from the  [atoxFarm](atox-ecosystem/what-is-atox/what-atox-has-planned./atoxswap/atoxfarm/) for maximum potential earning up to 28% API. Our user interface will put you to ease to trade numerous coins without moving assets from centralised exchanges, paying fees left right and centre, using features like my ATOX wallet which is a decentralised wallet meaning you are still in control of your all assets. 100% of the time!
+The project has been designed by the ATOX developers to ensure maximum security, and guarantee a better more stable reward system by using the ATOX, Everything from Staking, Winning and Building crypto related Dapps on the ATOX Ecosystem will be possible, on our mobile app while earning ATOX-LP Tokens from the  [atoxFarm](atox-ecosystem/a-roadmap-for-the-atox-ecosystem/what-is-atox/what-atox-has-planned./atoxswap/atoxfarm/) for maximum potential earning up to 28% API. Our user interface will put you to ease to trade numerous coins without moving assets from centralised exchanges, paying fees left right and centre, using features like my ATOX wallet which is a decentralised wallet meaning you are still in control of your all assets. 100% of the time!
 
 Our roadmap, token distribution are clearly defined so investors can have the utmost confidence in the project. The token is here to stay, to help bring the final solution to making the world a better place. See how we aim to achieve this in the [Project Goals](atox-ecosystem/a-roadmap-for-the-atox-ecosystem/project-goals.md).
 
@@ -38,19 +38,21 @@ The current decade of the 21st century has seen much advancement, improvement, a
 
 Our Solution:
 
-&#x20;Charity Program&#x20;
+Donating to one or more in organisation
+
+Charity Program&#x20;
 
 Better Off Program
 
-&#x20;ATOX Career Program&#x20;
+ATOX Career Program&#x20;
 
-jobs.atoxswap.com
+atoxswap jobs
 
 
 
 Unlike the Ethereum network, the Binance Smart Chain, or even Polygon…
 
-&#x20;atoxScan has made the right adjustments needed to allow transactions to be conducted much faster and for a small fraction of the cost but this is now raising too so a solution is ATOX.
+[atoxscan](atox-ecosystem/a-roadmap-for-the-atox-ecosystem/what-is-atox/what-atox-has-planned./atoxscan.md) has made the right adjustments needed to allow transactions to be conducted much faster and for a small fraction of the cost but this is now raising too so a solution is [ATOX](atox-ecosystem/a-roadmap-for-the-atox-ecosystem/what-is-atox/).
 
 ## Why choose ATOX ? - 3
 
@@ -60,11 +62,11 @@ The pandemic has disrupted the normal lives of millions of people around the wor
 
 At a time like this, ATOX aims to contribute to social good by helping people who hold our Token in our ecosystem.&#x20;
 
-The platform will raise funds to support various causes through donations to charities or other in need organisations as well as the ATOX charity program.
+The platform will raise funds to support various causes through donations to charities or other in need organisations as well as having a couple inhouse solutions by creating the ATOX charity program, Better Off Program, while having atoxswap jobs platform to help the ATOX career program with will provide thousands of new jobs in result to help to on going issues with unemployment.
 
 
 
-For every burn conducted on the platform:
+For every burn conducted on the ecosystem:
 
 28% to the charity reserve program.&#x20;
 
@@ -73,6 +75,8 @@ For every burn conducted on the platform:
 10% to the Better Off Program.&#x20;
 
 10% to the ATOX career program.
+
+5% to atoxswap jobs
 
 
 
@@ -118,19 +122,21 @@ We will launch our mobile app with a built-in system for everything related to c
 Phase 2 will begin when ATOX is at 0.75 then the ATOX\_Development\_Protocol will issue one 8th of the development fund which is a total of 18,750,000 ATOX which would be the 1st instalment after all projects are funded while existing ATOX will be burnt.&#x20;
 {% endhint %}
 
-* [ ] Launch Hi-Lo game (simple/advanced)
-* [ ] Launch Lottery
+* [ ] Launch Hi-Lo game (simple/advanced) with 250,000 ATOX liquidity provided
+* [ ] Launch Lottery with 250,000 ATOX liquidity provided
 * [ ] Launch atox-toolkit
-* [ ] start development on myATOXwallet
-* [ ] Start development on atoxOS&#x20;
-* [ ] start design for atoxOS systems (3 types) ATMs
-* [ ] planning for atoxWorld Project
-* [ ] Release ATOX NFT with game
-* [ ] 1st donation to a chosen in need organisation  &#x20;
-* [ ] Charity Program 1st instalment
-* [ ] ATOX Career Program 1st instalment
-* [ ] Better Off Program 1st instalment
-* [ ] ATOX Burnt:&#x20;
+* [ ] Start development on NFT Marketplace (115,000 ATOX)
+* [ ] Start development on myATOXwallet  (300,000 ATOX)&#x20;
+* [ ] Start development on atoxOS (350,00 ATOX)&#x20;
+* [ ] Start design for atoxOS systems (3 types) ATMs (8,000,000 ATOX)
+* [ ] Planning for atoxWorld Project (5,000,000 ATOX)
+* [ ] Develop & Release ATOX NFT with game (100,000 ATOX)
+* [ ] 1st donation to a chosen in need organisation   (Estimated:486,000 ATOX)&#x20;
+* [ ] Charity Program 1st instalment  (Estimated: 1,260,000 ATOX)
+* [ ] ATOX Career Program 1st instalment  (Estimated: 275,400 ATOX)
+* [ ] Better Off Program 1st instalment  (Estimated: 247,860)
+* [ ] Fund atoxswap jobs (Estimated: 111,537 ATOX)
+* [ ] ATOX Burnt: (Estimated: 2,004,203 ATOX)
 
 ### Phase 3
 
@@ -139,17 +145,19 @@ Phase 3 will begin when ATOX is at 1.37 then the ATOX\_Development\_Protocol wil
 {% endhint %}
 
 * [ ] Launch NFT Marketplace
-* [ ] Finish up & Launch my ATOX wallet
-* [ ] Finish up and Launch atoxscan.com
-* [ ] Start on cross-chain
-* [ ] Start development on LoanATOX
-* [ ] Continue planning for atox world
-* [ ] Develop NFT game 2
-* [ ] 2nd donation to a chosen in need organisation
-* [ ] 2nd instalment Charity Program&#x20;
-* [ ] ATOX Career Program 2nd instalment
-* [ ] Better Off Program 2nd instalment
-* [ ] ATOX Burnt:&#x20;
+* [ ] Finish up & Launch my ATOX wallet (100,000 ATOX)
+* [ ] Finish up and Launch atoxscan.com (200,000 ATOX)
+* [ ] Start on cross-chain (450,000 ATOX)
+* [ ] Start development on LoanATOX (300,000 ATOX)
+* [ ] Continue planning for atox world (7,000,000 ATOX)
+* [ ] Continue development on ATMs (4,000,000 ATOX)
+* [ ] Develop NFT game 2.0 (250,000 ATOX)
+* [ ] 2nd donation to a chosen in need organisation (Estimated: )
+* [ ] 2nd instalment Charity Program (Estimated: )
+* [ ] ATOX Career Program 2nd instalment (Estimated: )
+* [ ] Better Off Program 2nd instalment (Estimated: )
+* [ ] fund atoxswap jobs (Estimated: )
+* [ ] ATOX Burnt: (Estimated: )
 
 ### Phase 4
 
@@ -166,11 +174,12 @@ Phase 4 will begin when ATOX is at 3.12 then the ATOX\_Development\_Protocol wil
 * [ ] Start manufacturing ATMs
 * [ ] Continue Development on atoxOS
 * [ ] Start development with atox world plan&#x20;
-* [ ] 3rd donation to one or more in need organisation&#x20;
-* [ ] 3rd instalment Charity Program
-* [ ] Better Off Program 3rd instalment&#x20;
-* [ ] ATOX Career Program 3rd instalment
-* [ ] ATOX Burnt:&#x20;
+* [ ] 3rd donation to one or more in need organisation (Estimated: )
+* [ ] 3rd instalment Charity Program (Estimated: )
+* [ ] Better Off Program 3rd instalment (Estimated: )
+* [ ] ATOX Career Program 3rd instalment (Estimated: )
+* [ ] Fund atoxswap jobs (Estimated: )
+* [ ] ATOX Burnt: (Estimated: )
 
 ### Phase 5
 
@@ -184,11 +193,11 @@ Phase 5 will begin when ATOX is at 5.87 then the ATOX\_Development\_Protocol wil
 * [ ] Launch ATOX ATMs
 * [ ] Launch cross-chain
 * [ ] v2 ATOX Cards interface update
-* [ ] 4th donation to one or more in need organisation
-* [ ] 4th instalment Charity Program
-* [ ] Better Off Program 4th instalment
-* [ ] ATOX Career Program 4th instalment
-* [ ] ATOX Burnt:
+* [ ] 4th donation to one or more in need organisation (Estimated: )
+* [ ] 4th instalment Charity Program (Estimated: )
+* [ ] Better Off Program 4th instalment (Estimated: )
+* [ ] ATOX Career Program 4th instalment (Estimated: )
+* [ ] ATOX Burnt: (Estimated: )
 
 ### Phase 6
 
@@ -201,11 +210,12 @@ Phase 6 will begin when ATOX is at 8.28 then the ATOX\_Development\_Protocol wil
 * [ ] Update ATOX card interface &#x20;
 * [ ] Continue development on atox world
 * [ ] Start on Oasis Development
-* [ ] 5th donation to one or more in need organisation
-* [ ] 5th instalment Charity Program
-* [ ] Better Off Program 5th instalment
-* [ ] ATOX Career Program 5th instalment
-* [ ] ATOX Burnt:&#x20;
+* [ ] 5th donation to one or more in need organisation (Estimated: )
+* [ ] 5th instalment Charity Program (Estimated: )
+* [ ] Better Off Program 5th instalment (Estimated: )
+* [ ] ATOX Career Program 5th instalment (Estimated: )
+* [ ] Fund atoxswap jobs (Estimated: )
+* [ ] ATOX Burnt: (Estimated: )
 
 ### Phase 7&#x20;
 
@@ -215,11 +225,12 @@ Phase 7 will begin when ATOX is at 11.63 then the ATOX\_Development\_Protocol wi
 
 * [ ] Continue development on Oasis&#x20;
 * [ ] Start atoxworld plans&#x20;
-* [ ] 6th donation to one or more in need organisation
-* [ ] 6th instalment Charity Program
-* [ ] Better Off Program 6th instalment
-* [ ] ATOX Career Program 6th instalment
-* [ ] ATOX Burnt:&#x20;
+* [ ] 6th donation to one or more in need organisation(Estimated: )
+* [ ] 6th instalment Charity Program(Estimated: )
+* [ ] Better Off Program 6th instalment(Estimated: )
+* [ ] ATOX Career Program 6th instalment(Estimated: )
+* [ ] Fund atoxswap jobs (Estimated: )
+* [ ] ATOX Burnt: (Estimated: )
 
 ### Phase 8&#x20;
 
@@ -230,11 +241,11 @@ Phase 8 will begin when ATOX is at 15.02 then the ATOX\_Development\_Protocol wi
 * [ ] Start development on DAO
 * [ ] Continue plans on atoxworld&#x20;
 * [ ] Continue development on oasis
-* [ ] 7th donation to one or more in need organisation
-* [ ] 7th instalment Charity Program
-* [ ] Better Off Program 7th instalment
-* [ ] ATOX Career Program 7th instalment
-* [ ] ATOX Burnt:&#x20;
+* [ ] 7th donation to one or more in need organisation (Estimated: )
+* [ ] 7th instalment Charity Program (Estimated: )
+* [ ] Better Off Program 7th instalment (Estimated: )
+* [ ] ATOX Career Program 7th instalment (Estimated: )
+* [ ] ATOX Burnt: (Estimated: )
 
 ### Phase 9
 
@@ -245,11 +256,11 @@ Phase 9 will begin when ATOX is at 28.74 then the ATOX\_Development\_Protocol wi
 * [ ] &#x20;DAO Launched / ATOX\_Development\_Protocol (Completed)
 * [ ] &#x20;Open atoxworld to public&#x20;
 * [ ] Launch Oasis
-* [ ] 8th donation to one or more in need organisation
-* [ ] 8th instalment Charity Program
-* [ ] Better Off Program 8th instalment
-* [ ] ATOX Career Program 8th instalment
-* [ ] ATOX Burnt:&#x20;
+* [ ] 8th donation to one or more in need organisation (Estimated: )
+* [ ] 8th instalment Charity Program (Estimated: )
+* [ ] Better Off Program 8th instalment (Estimated: )
+* [ ] ATOX Career Program 8th instalment (Estimated: )
+* [ ] ATOX Burnt: (Estimated: )
 
 
 
